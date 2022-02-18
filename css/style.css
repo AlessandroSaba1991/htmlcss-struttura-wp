@@ -17,12 +17,10 @@
 
 .table{
     height: 550px;
-    background-color: hotpink;
 }
 
 .site_header{
-    height: 160px;
-    background-color: coral; 
+    height: 160px; 
 }    
 
 .clearfix::after{
@@ -33,12 +31,10 @@
 
 .row_img{
     line-height: 200px;
-    background-color: darkslateblue;
 }
 
 .row_text{
     line-height: 350px;
-    background-color: aqua;
 }
 
 /* Main */
@@ -111,4 +107,10 @@
     margin: 0 2%;
     background-color: rgb(43, 183, 226);
     float: left;
+}
+.site_footer{
+    height: 60px;
+    background-color: lightsalmon;
+    margin: 15px 0;
+    line-height: 60px;
 }
